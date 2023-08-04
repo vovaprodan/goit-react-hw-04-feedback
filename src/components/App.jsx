@@ -5,7 +5,7 @@ export const App = () => {
     <div
 
     >
-      <Section good={3} neutral={2} bad={2}/>
+      <Section/>
     </div>
   );
 };
